@@ -12,7 +12,7 @@ define(function(require, exports, module){
     
     AppInit.appReady(function(){
         
-        var execute_app = '508-chekcs.execute';
+        var execute_app = '508-checks.execute';
         CommandManager.register('Run 508 Checks', execute_app, check508);
         var menu = Menus.getMenu(Menus.AppMenuBar.EDIT_MENU);
         menu.addMenuItem(execute_app);
