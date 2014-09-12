@@ -1,0 +1,12 @@
+{
+    "name": "508-checks",
+    "title": "508 Checks",
+    "description": "Check 508 Compliance",
+    "homepage": "https://github.com/yourname/yourproject",
+    "version": "1.0.0",
+    "author": "",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
